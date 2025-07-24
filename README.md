@@ -80,7 +80,7 @@ query_text = "How do I make a virtual environment?"
 How do I create a Python virtual environment? You can create a virtual environment using `python -m venv myenv` or `conda create -n myenv python=3.9`.
 ```
 
-**Distance:** 0.257 (example)
+**Distance:** 0.89 (example)
 
 The result is a strong match. A lower distance means higher similarity.
 
@@ -95,7 +95,7 @@ The result is a strong match. A lower distance means higher similarity.
   ```
   What is Git? Git is a distributed version control system for tracking changes in source code during software development.
   ```
-* **Distance:** \~0.19
+* **Distance:** \~0.34
 
 ### Query 2: "How do I build an API in Python?"
 
